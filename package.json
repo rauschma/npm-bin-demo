@@ -3,7 +3,7 @@
     "hello": "./hello.js"
   },
   "scripts": {
-    "figlet": "figlet",
+    "fig": "figlet",
     "hello": "./hello.js"
   },
   "dependencies": {
