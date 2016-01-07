@@ -1,0 +1,12 @@
+{
+  "bin": {
+    "hello": "./hello.js"
+  },
+  "scripts": {
+    "figlet": "figlet",
+    "hello": "./hello.js"
+  },
+  "dependencies": {
+    "figlet-cli": "^0.1.0"
+  }
+}
